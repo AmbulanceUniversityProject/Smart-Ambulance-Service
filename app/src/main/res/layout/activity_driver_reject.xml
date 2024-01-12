@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DriverRejectActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Driver Reject Ambulances Page"
+                android:textColor="@color/black"
+                android:textSize="40dp" />
+
+            <Button
+                android:id="@+id/viewbtn"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/shapesignup"
+                android:shadowColor="@android:color/transparent"
+                android:text="CLICK TO VIEW"
+                android:textColor="@color/white" />
+
+            <ListView
+                android:id="@+id/list_view"
+                android:layout_width="match_parent"
+                android:layout_height="1000dp"
+                android:textColor="@color/black" />
+
+            <!--<TextView
+                android:textColor="@color/black"
+                android:id="@+id/txtView"
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:textSize="30dp"
+                android:layout_marginTop="20dp"
+                android:hint="Dog Details"/>-->
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

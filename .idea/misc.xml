@@ -1,0 +1,29 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/drawable-v24/border_image.xml" value="0.1925" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/drawable-v24/roundbutton.xml" value="0.3205" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/drawable-v24/shapeemailid.xml" value="0.1925" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/drawable/border_image.xml" value="0.1925" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/drawable/roundbutton.xml" value="0.3205" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_admin_login.xml" value="0.184375" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_admin_main.xml" value="0.184375" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_admin_view_ambulances.xml" value="0.35885416666666664" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_admin_view_drivers.xml" value="0.35885416666666664" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_admin_view_full_details.xml" value="0.35885416666666664" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_admin_view_users.xml" value="0.35885416666666664" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_main_app.xml" value="0.33" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_new_ambulance.xml" value="0.184375" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_new_driver.xml" value="0.1728515625" />
+        <entry key="..\:/DhananjayaFolder/Precedency_Android_2023/AmbulanceServiceApp/app/src/main/res/layout/activity_new_user.xml" value="0.329608938547486" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,1508 @@
+<resources>
+    <string name="app_name">AmbulanceServiceApp</string>
+    <string-array name="areanames">
+    <item>Select Area</item>
+    <item>Jayanagar</item>
+    <item>Indira Nagar</item>
+    <item>Ashok Nagar</item>
+    <item>Koramangala</item>
+    <item>Whitefield</item>
+    <item>Marathahalli</item>
+    <item>BTM Layout</item>
+    <item>Vijaya Nagar</item>
+    <item>JP Nagar</item>
+    <item>HSR Layout</item>
+    <item>Malleshwaram</item>
+    <item>Bannerghatta Road</item>
+    <item>Kaggadasapura</item>
+    <item>Basavanagudi</item>
+    <item>Banashankari</item>
+    <item>Bellandur</item>
+    <item>T Dasarahalli</item>
+    <item>Brookefield</item>
+    <item>Yelahanka</item>
+    <item>Sarjapur Road</item>
+    <item>Sadashiva Nagar</item>
+    <item>Kalyan Nagar</item>
+    <item>KR Puram</item>
+    <item>Hebbal</item>
+    <item>Bilekahalli</item>
+    <item>Vidyaranyapura</item>
+    <item>Hosur Road</item>
+    <item>Ramamurthy Nagar</item>
+    <item>Domlur</item>
+    <item>Shivaji Nagar</item>
+    <item>Arekere</item>
+    <item>Sanjay Nagar</item>
+    <item>Bagalakunte</item>
+    <item>New Thippasandra</item>
+    <item>Banaswadi</item>
+    <item>Vasanth Nagar</item>
+    <item>CV Raman Nagar</item>
+    <item>Frazer Town</item>
+    <item>Bommenahalli</item>
+    <item>Sahakara Nagar</item>
+    <item>Kumaraswamy Layout</item>
+    <item>Ulsoor</item>
+    <item>Yelahanka New Town</item>
+    <item>Seshadripuram</item>
+    <item>Sadduguntepalya</item>
+    <item>Padmanabha Nagar</item>
+    <item>Yeshwanthpur</item>
+    <item>Wilson Garden</item>
+    <item>Kengeri Satellite Town</item>
+    <item>Mathikere</item>
+    <item>Attiguppe</item>
+    <item>Hongasandra</item>
+    <item>Mahadevapura</item>
+    <item>Doddanekkundi</item>
+    <item>Murugesh Palya</item>
+    <item>Ejipura</item>
+    <item>Kammanahalli</item>
+    <item>Nagarabhavi</item>
+    <item>Raja Rajeshwari Nagar</item>
+    <item>Hulimavu</item>
+    <item>Gandhi Nagar</item>
+    <item>Adugodi</item>
+    <item>Kodihalli</item>
+    <item>Bennigana Halli</item>
+    <item>Gottigere</item>
+    <item>Chamarajpet</item>
+    <item>Jalahalli West</item>
+    <item>Uttarahalli</item>
+    <item>Nagavara</item>
+    <item>Panduranga Nagar</item>
+    <item>Sudhama Nagar</item>
+    <item>Bidrahalli</item>
+    <item>Sampangi Rama Nagar</item>
+    <item>Jalahalli East</item>
+    <item>Chickpet</item>
+    <item>Ganga Nagar</item>
+    <item>Hoodi</item>
+    <item>RT Nagar</item>
+    <item>HBR Layout</item>
+    <item>Harlur</item>
+    <item>Sunkadakatte</item>
+    <item>Kadubeesanahalli</item>
+    <item>Konanakunte</item>
+    <item>Jayamahal</item>
+    <item>Begur</item>
+    <item>Jeevanbheema Nagar</item>
+    <item>Nandini Layout</item>
+    <item>RMV 2nd Stage</item>
+    <item>Shanthi Nagar</item>
+    <item>Maruthi Sevanagar</item>
+    <item>Ragavendra Nagar-Sunkadakatte</item>
+    <item>Kempegowda Nagar</item>
+    <item>Kanakapura Road</item>
+    <item>Bannerghatta</item>
+    <item>Kamala Nagar</item>
+    <item>Richmond Town</item>
+    <item>Chikkalasandra</item>
+    <item>Kalena Agrahara</item>
+    <item>Bidadi</item>
+    <item>Kasavanahalli</item>
+    <item>Kadugodi</item>
+    <item>Varthur</item>
+    <item>Hombegowda Nagar</item>
+    <item>Dommasandra</item>
+    <item>Jakkur</item>
+    <item>Battarahalli</item>
+    <item>Cox Town</item>
+    <item>Hesaraghatta</item>
+    <item>Annapurneshwari Nagar</item>
+    <item>Basapura</item>
+    <item>Singasandra</item>
+    <item>Kalkere</item>
+    <item>Hegde Nagar</item>
+    <item>Abbigere</item>
+    <item>kaikondrahalli</item>
+    <item>Chikbanavara</item>
+    <item>Neelasandra</item>
+    <item>Hosakerehalli</item>
+    <item>Jnana Ganga Nagar</item>
+    <item>Jaya Chamarajendra Nagar</item>
+    <item>Kadugondanahalli</item>
+    <item>Viveka Nagar</item>
+    <item>Guttahalli</item>
+    <item>Chansandra</item>
+    <item>Victoria Layout</item>
+    <item>Kaval Byrasandra</item>
+    <item>Maruthi Nagar</item>
+    <item>Cooke Town</item>
+    <item>Devarachikkanahalli</item>
+    <item>Azad Nagar</item>
+    <item>Subramanyapura</item>
+    <item>Benson Town</item>
+    <item>Doddabommasandra</item>
+    <item>Kengeri</item>
+    <item>Basaveshwara Nagar</item>
+    <item>Lingaraja Puram</item>
+    <item>Richards Town</item>
+    <item>Kothanur</item>
+    <item>Kodigehalli</item>
+    <item>Soundarya Layout</item>
+    <item>Nagasandra</item>
+    <item>Thanisandra</item>
+    <item>Devinagar</item>
+    <item>Bapuji Nagar</item>
+    <item>Anjanapura</item>
+    <item>Andrahalli</item>
+    <item>Kattigenahalli</item>
+    <item>Laggere</item>
+    <item>SMV Layout</item>
+    <item>Sarjapur</item>
+    <item>Rayasandra</item>
+    <item>Chandapura</item>
+    <item>Dasarahalli Hebbal</item>
+    <item>Akshayanagar</item>
+    <item>Hennur Road</item>
+    <item>Nelamangala</item>
+    <item>Choodasandra</item>
+    <item>Horamavu</item>
+    <item>Hennur</item>
+    <item>Bommasandra</item>
+    <item>Hoskote</item>
+    <item>Marathahalli ORR</item>
+    <item>Navodaya Nagar</item>
+    <item>Nayanda Halli</item>
+    <item>Neeladri Investment Layout</item>
+    <item>Narasipalya</item>
+    <item>Naidu Layout</item>
+    <item>Nagvarpalya Main Road</item>
+    <item>Nallurhalli</item>
+    <item>Nanda Kumar Layout</item>
+    <item>Nandi Hills</item>
+    <item>Nandi Durg Road</item>
+    <item>Nagondanahalli</item>
+    <item>Nagenahalli</item>
+    <item>Nagashetty Halli</item>
+    <item>Nagarur</item>
+    <item>Nagavarapalya</item>
+    <item>Nagdevanahalli</item>
+    <item>Nagegowdanapalya</item>
+    <item>Nanjamba Agrahara</item>
+    <item>Nanjappa Garden</item>
+    <item>Narayana Nagar 2nd Block</item>
+    <item>Narayana Nagar 1st Block</item>
+    <item>Narayana Nagar 3rd Block</item>
+    <item>Narayanaghatta</item>
+    <item>National Highway 207</item>
+    <item>Narayanapura</item>
+    <item>Narasipura Layout</item>
+    <item>Narasimhaswamy Layout</item>
+    <item>Nanjapura</item>
+    <item>Nanjappa Layout</item>
+    <item>Naraganahalli</item>
+    <item>Narasapura</item>
+    <item>Narasapura Industrial Road</item>
+    <item>Navarathna Agrahara</item>
+    <item>NGR Layout</item>
+    <item>Parimala Nagar</item>
+    <item>Parappana Agrahara</item>
+    <item>Paradise Colony</item>
+    <item>Patel Muniyappa Layout</item>
+    <item>Patel Narayanswamy Layout</item>
+    <item>Pattegarhpalya</item>
+    <item>Pattandur Agrahara</item>
+    <item>Pattanagere</item>
+    <item>Papareddipalya</item>
+    <item>Papanahalli</item>
+    <item>Pai Layout</item>
+    <item>Padmeshwari Nagar</item>
+    <item>Padarayana Pura</item>
+    <item>Palace Road</item>
+    <item>Palanahalli</item>
+    <item>Panathur</item>
+    <item>Pampamahakavi Road</item>
+    <item>Palya</item>
+    <item>Pavamanapura</item>
+    <item>Peddanapalya</item>
+    <item>Popular Colony</item>
+    <item>Poornapragna Housing Society Layout</item>
+    <item>Poorna Pragna Layout</item>
+    <item>Pothalappa Garden</item>
+    <item>Pottery Town</item>
+    <item>Prakash Nagar</item>
+    <item>Prakash Layout</item>
+    <item>Pragathi Nagar</item>
+    <item>Poojena Agrahara</item>
+    <item>PNB Layout</item>
+    <item>Peenya 2nd Stage</item>
+    <item>Peenya 1st Stage</item>
+    <item>Peenya</item>
+    <item>Peenya 3rd Stage</item>
+    <item>Peresandra</item>
+    <item>Pillanna Garden</item>
+    <item>Pillahalli</item>
+    <item>PT Layout-Thanisandra</item>
+    <item>P and T Layout-Ramamurthy Nagar</item>
+    <item>New Timberyard Layout</item>
+    <item>New Thippasan</item>
+    <item>New Gurappana Palya</item>
+    <item>NGEF Layout</item>
+    <item>Nagareshwara-Nagenahalli</item>
+    <item>Nirman Layout</item>
+    <item>Nimbekaipura</item>
+    <item>NICE Road</item>
+    <item>New BEL Road</item>
+    <item>New Bank Colony</item>
+    <item>Nelakadiranahalli</item>
+    <item>Nelaguli</item>
+    <item>Nehru Nagar</item>
+    <item>Nelamangala – Chikkaballapura Road</item>
+    <item>Nellukunte</item>
+    <item>Nethaji Layout</item>
+    <item>Neraluru</item>
+    <item>Neraganahalli</item>
+    <item>Nisarga layout</item>
+    <item>Nisarga Nandana Layout</item>
+    <item>Old Byappanahalli</item>
+    <item>Old Airport Road</item>
+    <item>Okalipuram</item>
+    <item>Old Madras Road</item>
+    <item>Om Shakti Layout</item>
+    <item>Outer Ring Road-Banaswadi</item>
+    <item>Outer Ring Road</item>
+    <item>OMBR Layout</item>
+    <item>Off Sarjapur road</item>
+    <item>Off Hennur Road</item>
+    <item>NR Layout</item>
+    <item>NR Colony</item>
+    <item>Nobo Nagar</item>
+    <item>NRI Layout</item>
+    <item>NS Palya</item>
+    <item>Off Bannerghatta Road</item>
+    <item>Nyanappana Halli</item>
+    <item>Neeladri Nagar</item>
+    <item>Mosque Road</item>
+    <item>M Hosahalli</item>
+    <item>Lottegollahalli</item>
+    <item>Lingapura</item>
+    <item>Lingadheeranahalli</item>
+    <item>Machohalli</item>
+    <item>Madanayakahalli</item>
+    <item>Madeshwara Nagar</item>
+    <item>Madavara</item>
+    <item>Madappanahalli</item>
+    <item>Lingadeeranhalli-Kempe Gowda Nagar</item>
+    <item>LB Shastri Nagar</item>
+    <item>Lalbagh Road</item>
+    <item>Lal Bahadur Shastri Nagar</item>
+    <item>lal bagh</item>
+    <item>Lakshmipuram</item>
+    <item>Laljinagar</item>
+    <item>Langford Gardens</item>
+    <item>Lavelle Road</item>
+    <item>Langford Town</item>
+    <item>Langford Road</item>
+    <item>Madhava Nagar</item>
+    <item>Madhavan Park</item>
+    <item>Mallasandra</item>
+    <item>Maligondanahalli</item>
+    <item>Malagala</item>
+    <item>Makali</item>
+    <item>Mallathahalli</item>
+    <item>Malle Nalsandra</item>
+    <item>Malur-Hosur Road</item>
+    <item>Malleswaram West</item>
+    <item>Malleshpalya</item>
+    <item>Majestic</item>
+    <item>Mailasandra</item>
+    <item>Magadi Road</item>
+    <item>Madiwala</item>
+    <item>Madhura Nagar</item>
+    <item>Magrath Road</item>
+    <item>Mahadeva Kodigehalli</item>
+    <item>Mahalakshmipuram</item>
+    <item>Mahalakshmi Layout</item>
+    <item>Mahaganapathi Nagar</item>
+    <item>Lakshmipura</item>
+    <item>Lakshminarayanapuram</item>
+    <item>Kumara Park East</item>
+    <item>Kukkanahalli</item>
+    <item>Kuduregere-Soladevanahalli</item>
+    <item>Kuduragere-Bettahalasur</item>
+    <item>Kumara Park West</item>
+    <item>Kumbalgodu</item>
+    <item>Kumbena Agrahara</item>
+    <item>Kumbarpet</item>
+    <item>Kumbalgodu Industrial Area</item>
+    <item>Kudlu Gate</item>
+    <item>Kudlu</item>
+    <item>Koti Hosahalli</item>
+    <item>Kothanoor</item>
+    <item>Koramangala 8th Block</item>
+    <item>Koramangala 7th Block</item>
+    <item>Kottigepalya</item>
+    <item>KR Road</item>
+    <item>Koramangala 5th Block</item>
+    <item>Krishnasagara</item>
+    <item>Krishnappa Garden</item>
+    <item>Kumbharhalli</item>
+    <item>Kumbiganahalli</item>
+    <item>Lakkasandra Extension</item>
+    <item>Lakkasandra</item>
+    <item>Lake City</item>
+    <item>Laggere Road</item>
+    <item>Lakkenahalli</item>
+    <item>Lakkondally</item>
+    <item>Lakshminarayana Pura</item>
+    <item>Lakshmidevipura</item>
+    <item>Lakshmamma Layout</item>
+    <item>Laggere Bridge</item>
+    <item>Kyalasanahalli</item>
+    <item>Kurubara Gollahalli</item>
+    <item>Kunigal Road</item>
+    <item>Kundalahalli</item>
+    <item>Kurubarahalli</item>
+    <item>Kurudusonnenahalli</item>
+    <item>KV Muniyappa Garden Layout</item>
+    <item>Kuthaganahalli</item>
+    <item>Kushal Nagar</item>
+    <item>Manchenahalli</item>
+    <item>Mandur</item>
+    <item>Muddinapalya</item>
+    <item>Muddenahalli</item>
+    <item>Muddamma Garden Extension</item>
+    <item>Mudalapalya</item>
+    <item>Mukthi Nagar</item>
+    <item>Mullur</item>
+    <item>Muneshwara Layout</item>
+    <item>Muneshwara Block</item>
+    <item>Mundur</item>
+    <item>MTS Layout</item>
+    <item>MS Palya</item>
+    <item>Mission Road</item>
+    <item>Koramangala 3rd Block</item>
+    <item>Minhaj Nagar</item>
+    <item>Minerva Circle</item>
+    <item>Mittaganahalli</item>
+    <item>Pramod Layout</item>
+    <item>Koramangala 6th Block</item>
+    <item>Mookambika Nagar</item>
+    <item>MLA Layout</item>
+    <item>Muneswara Nagar</item>
+    <item>Munireddy Layout</item>
+    <item>Nagappa Reddy Layout</item>
+    <item>Naganathapura</item>
+    <item>Nagamuneshwara Layout</item>
+    <item>Nagamangala</item>
+    <item>Nagapura</item>
+    <item>Nagarabhavi 1st stage</item>
+    <item>Nagarathpete</item>
+    <item>Nagarabhavi Main Road</item>
+    <item>Nagarabhavi 2nd Stage</item>
+    <item>Mysore Road</item>
+    <item>Mylasandra</item>
+    <item>Museum Road</item>
+    <item>Munnekollal</item>
+    <item>Munireddypalya</item>
+    <item>Muthanallur</item>
+    <item>Muthkur</item>
+    <item>Mylanahalli</item>
+    <item>Muthyala Nagar</item>
+    <item>Muthusandra</item>
+    <item>Millers Road</item>
+    <item>Milk Colony</item>
+    <item>Mariyannapalya</item>
+    <item>Margondanahalli</item>
+    <item>Marenahalli</item>
+    <item>Marathahalli-Sarjapur Outer Ring Road</item>
+    <item>Mariyappana Palya</item>
+    <item>Marsandra-Anagalapura</item>
+    <item>Maruthi Nagar Yelahanka</item>
+    <item>Maruthi Extension</item>
+    <item>Marsur</item>
+    <item>Koramangala 4th Block</item>
+    <item>Marasandra</item>
+    <item>Manjunath Nagar</item>
+    <item>Manganahalli</item>
+    <item>Mangammanapalya</item>
+    <item>Manjunatha Layout</item>
+    <item>Manorayana Palya</item>
+    <item>Maralakunte</item>
+    <item>Maragondanahalli-Electronic City</item>
+    <item>Maragondanahalli Main Road</item>
+    <item>Maruti Nagar-BTM Layout</item>
+    <item>Masti – Malur Road</item>
+    <item>Meenakunte</item>
+    <item>Meenakshi Layout</item>
+    <item>Medimallasandra</item>
+    <item>Medihalli</item>
+    <item>Meesaganahalli</item>
+    <item>MEI Colony</item>
+    <item>Mico Layout</item>
+    <item>MG Road</item>
+    <item>MEI Layout</item>
+    <item>Medi Agrahara</item>
+    <item>Medaralli</item>
+    <item>Mavalli</item>
+    <item>Mathrushree Layout</item>
+    <item>Matadahalli</item>
+    <item>Mavallipura</item>
+    <item>Mayaghanahalli</item>
+    <item>Medahalli</item>
+    <item>MCECHS Layout</item>
+    <item>MC Layout</item>
+    <item>Nagarbhavi Circle</item>
+    <item>Rampura</item>
+    <item>Thattekuppe</item>
+    <item>Thathaguni</item>
+    <item>Tharalu</item>
+    <item>Tharahunise</item>
+    <item>Thavarekere-Hoskote</item>
+    <item>Thavarekere-Magadi Road</item>
+    <item>Thimappa Reddy Layout</item>
+    <item>Thimaiah Garden</item>
+    <item>Thigala Chowdadenahalli</item>
+    <item>Thidlu</item>
+    <item>Tharabanahalli</item>
+    <item>Tharaballi</item>
+    <item>Thambuchetty Palya</item>
+    <item>Thalaghattapura</item>
+    <item>Telecom Layout</item>
+    <item>Tejaswini Nagar</item>
+    <item>Thammanayakanahalli</item>
+    <item>Thammasettihalli</item>
+    <item>Thanisandra Road</item>
+    <item>Thanisandra Main Road</item>
+    <item>Thammenahalli</item>
+    <item>Thimmapura</item>
+    <item>Thindlu</item>
+    <item>Tilak Nagar</item>
+    <item>Tigalarpalya</item>
+    <item>Thyamagondlu</item>
+    <item>Thyagaraja Nagar 2nd Block</item>
+    <item>Tippenahalli</item>
+    <item>Totagere</item>
+    <item>Udaya Nagar</item>
+    <item>Tunganagara</item>
+    <item>Tumkur Road</item>
+    <item>Thyagaraja Nagar</item>
+    <item>Thurahalli</item>
+    <item>Thirumalashettyhally</item>
+    <item>Thirumalapura</item>
+    <item>Thirumagondanahalli</item>
+    <item>Thippasandra</item>
+    <item>Thirumenahalli</item>
+    <item>Thomas Town</item>
+    <item>Thubarahalli</item>
+    <item>Thotada Guddadhalli</item>
+    <item>Thondebavi</item>
+    <item>Teacher’s Colony</item>
+    <item>TC Palya Road</item>
+    <item>Suddaguntapalya-CV Raman Nagar</item>
+    <item>Subramanyapura Main Road</item>
+    <item>Subramanyanagar</item>
+    <item>Subbannayapalya</item>
+    <item>Suddagunte Palya</item>
+    <item>Suggatta</item>
+    <item>Sultanpalya</item>
+    <item>Sulivara</item>
+    <item>Sulikere</item>
+    <item>Subbannaiah Palya</item>
+    <item>Subbaiyapalya</item>
+    <item>Srinivaspura</item>
+    <item>Srinivaspur</item>
+    <item>Srinivasnagar</item>
+    <item>Srinivasa Nagar</item>
+    <item>Srirampura</item>
+    <item>St Marks Road</item>
+    <item>State Bank of India Colony</item>
+    <item>St. Johns Road</item>
+    <item>St Thomas Town</item>
+    <item>Sultanpete</item>
+    <item>Sulthangunta</item>
+    <item>Tataguni</item>
+    <item>Tasker Town</item>
+    <item>Taralu</item>
+    <item>Tapsihalli</item>
+    <item>Tatanagar</item>
+    <item>Tavarekere Main Road</item>
+    <item>TC Palya</item>
+    <item>Tavarekere-BTM Layout</item>
+    <item>Tavarekere-BTM</item>
+    <item>Tannery Road</item>
+    <item>Tank Bund Road</item>
+    <item>Suryanagar</item>
+    <item>Sunny Layout</item>
+    <item>Sunkalpalya</item>
+    <item>Sundara Nagar</item>
+    <item>Syndicate Bank Colony-Arekere</item>
+    <item>Syndicate Bank Layout</item>
+    <item>Talaghattapura</item>
+    <item>Talacauvery Layout</item>
+    <item>T.Begur</item>
+    <item>Udaypura</item>
+    <item>Ullal</item>
+    <item>Vishweshwaraiah Layout</item>
+    <item>Vishwapriya Nagar</item>
+    <item>Vishwanathpura</item>
+    <item>Virupakshapura</item>
+    <item>Vishweshwarapura</item>
+    <item>Visthar</item>
+    <item>Vittal Nagar</item>
+    <item>Vittal Mallya Road</item>
+    <item>Viswaneedam</item>
+    <item>Virgonagar</item>
+    <item>Viratnagar</item>
+    <item>Vijayashri Layout</item>
+    <item>Vijayapura</item>
+    <item>Vijaya Bank Layout</item>
+    <item>Vijaya Bank Colony</item>
+    <item>Vijinapura</item>
+    <item>Vimanapura</item>
+    <item>Vinayakanagar-Hebbal</item>
+    <item>Vinayaka Nagar-Vimanapura</item>
+    <item>Vinayaka Layout</item>
+    <item>Vittasandra</item>
+    <item>Vivekananda Nagar</item>
+    <item>Yelahanka Airforce Road</item>
+    <item>Yelachenahalli</item>
+    <item>Yekadantha Layout</item>
+    <item>Yediyur</item>
+    <item>Yelanahalli</item>
+    <item>Yemalur</item>
+    <item>Yettakodi</item>
+    <item>Yerthiganahalli</item>
+    <item>Yerappanahalli</item>
+    <item>Yarandahalli</item>
+    <item>Yarab Nagar</item>
+    <item>Wheeler Road</item>
+    <item>West Of Chord Road</item>
+    <item>Weavers Colony</item>
+    <item>Vyalikaval</item>
+    <item>Whitefield Road</item>
+    <item>Williams Town</item>
+    <item>Yadavanahalli</item>
+    <item>Yadava Upanagara</item>
+    <item>Wind Tunnel Road</item>
+    <item>Vignana Nagar</item>
+    <item>Vignana Kendra</item>
+    <item>Vagata</item>
+    <item>Vaderamanchana Halli</item>
+    <item>Vaderahalli</item>
+    <item>Vaddarapalya</item>
+    <item>Vagdevi Layout</item>
+    <item>Vaishnavi Layout</item>
+    <item>Vanivilas Road</item>
+    <item>Valepura</item>
+    <item>Vajarahalli</item>
+    <item>Vadarpalya</item>
+    <item>Vabasandra</item>
+    <item>Upkar Layout</item>
+    <item>Umar Nagar</item>
+    <item>Ullalu Upanagara</item>
+    <item>Ullal Main Road</item>
+    <item>Uttarahalli</item>
+    <item>Uttarahalli Main Road</item>
+    <item>V S Reddy Colony</item>
+    <item>V Nagenahalli</item>
+    <item>Uttari</item>
+    <item>Varanasi</item>
+    <item>Varanasi Main Road</item>
+    <item>VHBCS Layout</item>
+    <item>Venkateshwara Layout</item>
+    <item>Venkateshpuram</item>
+    <item>Venkatapura</item>
+    <item>Vibhutipura</item>
+    <item>Vidhana Soudha</item>
+    <item>Vidyapeeta Layout</item>
+    <item>Vidyanagar</item>
+    <item>Vidyamanya Nagar</item>
+    <item>Venkatala</item>
+    <item>Venkatagiri Kote</item>
+    <item>Vasanthapura</item>
+    <item>Vasantha Vallabha Nagar</item>
+    <item>Varthur Road</item>
+    <item>Varthur Kodi</item>
+    <item>Vasanthapura Main Road</item>
+    <item>Veerannapalya</item>
+    <item>Venkatadri Layout</item>
+    <item>Vehloli</item>
+    <item>Veersandra</item>
+    <item>Srinivagilu</item>
+    <item>Srinidhi Layout</item>
+    <item>Roopena Agrahara</item>
+    <item>RMV Extension</item>
+    <item>RMV</item>
+    <item>RKM Layout</item>
+    <item>Rotary Nagar</item>
+    <item>Royal County</item>
+    <item>Rukmini Nagar</item>
+    <item>Rukmani Colony</item>
+    <item>RPC Layout</item>
+    <item>RK Township</item>
+    <item>Richmond Road</item>
+    <item>Reshme Nagara</item>
+    <item>Remco Layout</item>
+    <item>Reddypalya</item>
+    <item>RBI East Layout</item>
+    <item>Residency Road</item>
+    <item>Rest House Road</item>
+    <item>Riches Garden Main Road</item>
+    <item>Richard’s Park</item>
+    <item>RHB Colony</item>
+    <item>Rustam Bagh Layout</item>
+    <item>S K Garden</item>
+    <item>Sanchar Nagar MCECHS Layout</item>
+    <item>Samruddi Layout</item>
+    <item>Sampigehalli</item>
+    <item>Sampige Layout</item>
+    <item>Sanjay Gandhi Nagar</item>
+    <item>Sanjeevini Nagar</item>
+    <item>Saptagiri Layout-RR Nagar</item>
+    <item>Santhosh Nagar</item>
+    <item>Sankey Road</item>
+    <item>Samethanahalli</item>
+    <item>Sakalavara</item>
+    <item>Sadahalli</item>
+    <item>S.T. Bed</item>
+    <item>S.Medihalli</item>
+    <item>S.Bingipura</item>
+    <item>Sadanandanagar</item>
+    <item>Sadaramangala</item>
+    <item>Sai Colony</item>
+    <item>Sadguru Layout</item>
+    <item>Sadenahalli</item>
+    <item>Razack Palya</item>
+    <item>Ravuthanahalli</item>
+    <item>Raghuvanahalli</item>
+    <item>Raghavendra Nagar-Kalkere</item>
+    <item>Raghavendra Colony</item>
+    <item>Rachenahalli</item>
+    <item>Ragihalli</item>
+    <item>Rahat Bagh</item>
+    <item>Raj Bhavan Road</item>
+    <item>Rahuthnahalli Main Road</item>
+    <item>Rahmath Nagar</item>
+    <item>Race Course Road</item>
+    <item>R.K. Hegde Nagar</item>
+    <item>Pulikeshi Nagar</item>
+    <item>Pukhraj Layout</item>
+    <item>Priyadarshini Layout</item>
+    <item>Prashant Nagar</item>
+    <item>Punappa Layout</item>
+    <item>Pura</item>
+    <item>R V Niketan</item>
+    <item>Queens Road</item>
+    <item>Puttenahalli</item>
+    <item>Raja Ram Mohanroy Extension</item>
+    <item>Rajaji Nagar</item>
+    <item>Ramohalli</item>
+    <item>Rameshnagar</item>
+    <item>Ramchandrapuram</item>
+    <item>Ramaswamipalya</item>
+    <item>Koramangala 2nd Block</item>
+    <item>Ramsandra</item>
+    <item>Rashtriya Vidyalaya Road</item>
+    <item>Ranka Colony</item>
+    <item>Rangadasapp Layout</item>
+    <item>Ramanna Garden</item>
+    <item>Ramanjaneyanagar</item>
+    <item>Rajeshwari Nagar</item>
+    <item>Rajanukunte</item>
+    <item>Rajajinagar 2nd Stage</item>
+    <item>Rajaji Nagar 1st Stage</item>
+    <item>Rajiv Gandhi Nagar</item>
+    <item>Rajvi Nagar</item>
+    <item>Ramagondanahalli</item>
+    <item>Ramachandrapuram</item>
+    <item>Ram Krishna Nagar</item>
+    <item>Annaiah Reddy Layout-JP Nagar</item>
+    <item>Anjanapura Township</item>
+    <item>Anjanapura 7th Block</item>
+    <item>Anjanapura 2nd block</item>
+    <item>Annapurneswari Layout</item>
+    <item>Annasandrapalya Extension</item>
+    <item>Arasanahalli</item>
+    <item>Arabic College</item>
+    <item>Anugraha Layout</item>
+    <item>Anjanapura 11th Block</item>
+    <item>Anjana Nagar</item>
+    <item>Anchepalya</item>
+    <item>Ananth Nagar Phase 2</item>
+    <item>Ananth Nagar Phase 1</item>
+    <item>Anantapuram</item>
+    <item>Andrahalli Main Road</item>
+    <item>Anekal</item>
+    <item>Anepalya</item>
+    <item>Anekal Thally Road</item>
+    <item>Anekal – Hosur Road</item>
+    <item>Arasanakunte</item>
+    <item>Arehalli</item>
+    <item>Avalahalli-Huskuru</item>
+    <item>Austin Town</item>
+    <item>Attur Layout</item>
+    <item>Attukal Layout</item>
+    <item>Avenue Road</item>
+    <item>Averahalli</item>
+    <item>B Narayanapura</item>
+    <item>Ayyappa Nagar</item>
+    <item>Ayappa Garden-Adugodi</item>
+    <item>Austin Town</item>
+    <item>Attur Layout</item>
+    <item>Attukal Layout</item>
+    <item>Avenue Road</item>
+    <item>Averahalli</item>
+    <item>B Narayanapura</item>
+    <item>Ayyappa Nagar</item>
+    <item>Ayappa Garden-Adugodi</item>
+    <item>Attibele Industrial Area</item>
+    <item>Attibele – Anekal Road</item>
+    <item>Ashraya Layout</item>
+    <item>Ashirvad Colony</item>
+    <item>Armane Nagar</item>
+    <item>Arkavathy Layout</item>
+    <item>Ashta Laxmi Layout</item>
+    <item>Ashwath Nagar</item>
+    <item>Attibele</item>
+    <item>Atmananda Colony</item>
+    <item>Ashwini Layout</item>
+    <item>Anandapura</item>
+    <item>Anand Nagar</item>
+    <item>AECS Layout – A Block</item>
+    <item>AECS Layout</item>
+    <item>Aduru-Anekal</item>
+    <item>Aduru-Aavalahalli</item>
+    <item>AECS Layout – B Block</item>
+    <item>AECS Layout – C Block</item>
+    <item>Agrahara Badavane</item>
+    <item>Agara-HSR Layout</item>
+    <item>Aga Abbas Ali Road</item>
+    <item>Adityanagar-Vidyaranyapura</item>
+    <item>Addiganahalli</item>
+    <item>Abbaiah Reddy Layout</item>
+    <item>Aavalahalli</item>
+    <item>A Narayanapura</item>
+    <item>A Dasarahalli</item>
+    <item>Achit Nagar</item>
+    <item>ACL Layout</item>
+    <item>Adde Vishwanathapura</item>
+    <item>Adarsh Nagar-Nelamangala</item>
+    <item>Adakamaranahalli</item>
+    <item>Agrahara-Yelahanka</item>
+    <item>Agram-Domlur</item>
+    <item>AMCO Colony</item>
+    <item>Ambedkar Veedhi</item>
+    <item>Ambedkar Layout</item>
+    <item>Ambalipura Sarjapur Road</item>
+    <item>Amrita Nagar</item>
+    <item>Amrutahalli-Byatarayanapura</item>
+    <item>Anagalapura</item>
+    <item>AMS Layout</item>
+    <item>Amruthnagar</item>
+    <item>Amarjyothi Layout-RMV Layout</item>
+    <item>Amarjyothi Layout-Domlur</item>
+    <item>Akkipete</item>
+    <item>Ajjagondahalli</item>
+    <item>AGS Layout</item>
+    <item>Akshaya Nagar-Ramamurthy Nagar</item>
+    <item>Alfa Gardens</item>
+    <item>Amaravathi Layout-Peenya</item>
+    <item>Alur</item>
+    <item>Allalasandra</item>
+    <item>Babusa Palya</item>
+    <item>Bachappa Layout</item>
+    <item>Bellandur Outer Ring Road</item>
+    <item>Bellahalli</item>
+    <item>Belatur</item>
+    <item>Belathur Main Road</item>
+    <item>Bellary Road</item>
+    <item>BEML Layout</item>
+    <item>Bendre Nagar</item>
+    <item>Bendiganahalli</item>
+    <item>BEML Layout Raja Rajeshwari Nagar</item>
+    <item>Belathur</item>
+    <item>BEL Layout 2nd Block</item>
+    <item>BDA Layout-HSR</item>
+    <item>BDA Layout-BTM</item>
+    <item>BCMC Layout</item>
+    <item>BCC Layout</item>
+    <item>Bedarahalli</item>
+    <item>Begihalli</item>
+    <item>BEL Layout 1st Block</item>
+    <item>BEL Layout</item>
+    <item>Begur Road</item>
+    <item>Besthamanahalli</item>
+    <item>Bethel Nagar</item>
+    <item>Bhuvaneshwari Nagar</item>
+    <item>Bhovi Palya</item>
+    <item>Bhoothanahalli</item>
+    <item>Bhoopasandra</item>
+    <item>Bhyraveshwara Nagar</item>
+    <item>Bidaraguppe</item>
+    <item>Bikkanahalli</item>
+    <item>Bikasipura</item>
+    <item>Bidare Agraha</item>
+    <item>Bhoganhalli</item>
+    <item>Bheemanakuppe</item>
+    <item>Bettehalli</item>
+    <item>Bettahalasur</item>
+    <item>Bettadasanapura</item>
+    <item>Betta Kotte</item>
+    <item>Bhadrappa Layout</item>
+    <item>Bhaktharahalli</item>
+    <item>Bhattarahalli</item>
+    <item>Bharathi Nagar</item>
+    <item>Bharat Nagar</item>
+    <item>Bayyanapalya</item>
+    <item>Bashyam Nagar</item>
+    <item>Balaji Nagar-BTM Layout</item>
+    <item>Balaji Layout-Kanakapura Road</item>
+    <item>Balaji Layout-Kaggadasapura</item>
+    <item>Balagere</item>
+    <item>Balepete</item>
+    <item>Ballur</item>
+    <item>Banashankari 1st Stage</item>
+    <item>Banashankari</item>
+    <item>Bammanahalli-Devanahalli</item>
+    <item>Balagaranahalli</item>
+    <item>Baiyyappanahalli</item>
+    <item>Bagalur Sarjapur Road</item>
+    <item>Bagalur Road</item>
+    <item>Bagalur Main Road</item>
+    <item>Badamanavarathekaval</item>
+    <item>Bagaluru</item>
+    <item>Bagegowda Layout</item>
+    <item>Baiyappanahalli-Kithiganur</item>
+    <item>Bahubali Nagar</item>
+    <item>Bagepalli</item>
+    <item>Banashankari 2nd Stage</item>
+    <item>Banashankari 3rd Stage</item>
+    <item>Bannikuppe</item>
+    <item>Bannerghatta Jigani Road</item>
+    <item>Bank Avenue Colony</item>
+    <item>Banjara Layout</item>
+    <item>Bapagrama</item>
+    <item>Basavanagar</item>
+    <item>Bashettihalli</item>
+    <item>Basavanna Nagar</item>
+    <item>Basavanapura</item>
+    <item>Bangalore- Hyderabad Highway Road</item>
+    <item>Bandepalya</item>
+    <item>Banashankari 6th Stage</item>
+    <item>Banashankari 5th Stage</item>
+    <item>Banashankari 4th Stage</item>
+    <item>Bandappa Garden</item>
+    <item>Bandapura</item>
+    <item>Bande Nalla Sandra</item>
+    <item>Bande Kodigehalli</item>
+    <item>Bande Bommasandra</item>
+    <item>Domlur 2nd Stage</item>
+    <item>Donnenahalli</item>
+    <item>JP Nagar Phase 6</item>
+    <item>JP Nagar Phase 5</item>
+    <item>JP Nagar Phase 4</item>
+    <item>JP Nagar Phase 3</item>
+    <item>JP Nagar Phase 8</item>
+    <item>JP Nagar Phase 9</item>
+    <item>Junnasandra</item>
+    <item>Judicial Layout 2nd Phase</item>
+    <item>Judicial Layout</item>
+    <item>JP Nagar Phase 2</item>
+    <item>JP Nagar Phase 1</item>
+    <item>Jigani Road</item>
+    <item>Jigani Anekal Road</item>
+    <item>Jigani</item>
+    <item>JC Road</item>
+    <item>Jinkethimmanahalli</item>
+    <item>Jnana Jyothi Nagar</item>
+    <item>JP Nagar 7th Phase</item>
+    <item>Jogapalya</item>
+    <item>Jnanabharathi Layout</item>
+    <item>Jyothi Nagar</item>
+    <item>Jyotipuram</item>
+    <item>Kakolu</item>
+    <item>Kaggalipura</item>
+    <item>Kaggalahalli</item>
+    <item>Kadusonnappanahalli</item>
+    <item>Kalappa Layout</item>
+    <item>Kalasipalayam</item>
+    <item>Kallahalli</item>
+    <item>Kalkunte</item>
+    <item>Kalkere Main Road</item>
+    <item>Kadiranapalya</item>
+    <item>Kadenahalli Dinne</item>
+    <item>Kacharakanahalli</item>
+    <item>Kachanayakanahalli</item>
+    <item>K Narayanapura</item>
+    <item>K Channasandra</item>
+    <item>Kachohalli</item>
+    <item>Kada Agrahara</item>
+    <item>Kadathippur</item>
+    <item>Kadarenahalli</item>
+    <item>Kadabagere</item>
+    <item>JC Nagar</item>
+    <item>Jaylakshmi Puram</item>
+    <item>Jai Maruthi Nagar</item>
+    <item>Jagajeevanram Nagar</item>
+    <item>Jagadish Nagar</item>
+    <item>IVC Road</item>
+    <item>Jaibharath Nagar</item>
+    <item>Jairam Layout</item>
+    <item>Jakkuru Layout</item>
+    <item>Jakkur Main Road</item>
+    <item>Jakkasandra</item>
+    <item>Ittangur</item>
+    <item>Ittamadu</item>
+    <item>ISRO Layout</item>
+    <item>International Airport Road</item>
+    <item>Infantry Road</item>
+    <item>Indlawadi</item>
+    <item>Itchangur</item>
+    <item>ITI Employees Layout</item>
+    <item>ITPL Road</item>
+    <item>ITPL</item>
+    <item>ITI Layout-HSR Layout</item>
+    <item>Jal Vayu Vihar</item>
+    <item>Jalahalli</item>
+    <item>Jayanagar 7th Block</item>
+    <item>Jayanagar 6th Block</item>
+    <item>Jayanagar 5th Block</item>
+    <item>Jayanagar 4th T Block</item>
+    <item>Jayanagar 8th Block</item>
+    <item>Jayanagar East</item>
+    <item>Jayanti Nagar</item>
+    <item>Jayanagara 9th Block</item>
+    <item>Jayanagar Housing Society Layout</item>
+    <item>Jayanagar 4th Block</item>
+    <item>Jayanagar 3rd Block East</item>
+    <item>Jangamakote Cross</item>
+    <item>Jangamakote</item>
+    <item>Jalahalli Cross</item>
+    <item>Jarganahalli</item>
+    <item>Jayamahal Extension</item>
+    <item>Jayanagar 2nd Block</item>
+    <item>Jayanagar 1st Block</item>
+    <item>Jayamahal Road</item>
+    <item>Kallugopahalli</item>
+    <item>Kallumantapa</item>
+    <item>KHB Colony-Basaweshwara Nagar</item>
+    <item>KHB Colony Main Road</item>
+    <item>KHB 3rd Phase</item>
+    <item>Khajisonnanahalli</item>
+    <item>Kilari Road</item>
+    <item>Kirloskar Layout</item>
+    <item>Kithiganahalli</item>
+    <item>Kithaganur Village</item>
+    <item>Kithaganur Colony</item>
+    <item>KH Road</item>
+    <item>KG Srikantapura</item>
+    <item>Kenchanapura</item>
+    <item>Kenchanahalli</item>
+    <item>Kempegowda Layout</item>
+    <item>Kempe Gowda Road</item>
+    <item>Kenchenahalli</item>
+    <item>Kenganahalli</item>
+    <item>KG Road</item>
+    <item>Kereguddadahalli</item>
+    <item>Kengunte</item>
+    <item>Kithiganur</item>
+    <item>Kittanahalli</item>
+    <item>Konaghatta</item>
+    <item>Konadasapura</item>
+    <item>Kommaghatta</item>
+    <item>Kolar-Chikkaballapur Road</item>
+    <item>Konena Agrahara</item>
+    <item>Koppa</item>
+    <item>Koralur</item>
+    <item>Koppa Gate</item>
+    <item>Koppa Begur Road</item>
+    <item>Kolar Road</item>
+    <item>Kogilu Road</item>
+    <item>Kodichikkanahalli</item>
+    <item>Kodathi Gate</item>
+    <item>Kodathi</item>
+    <item>Kodagi Thirumalapura</item>
+    <item>Kodigehalli – KR Puram</item>
+    <item>Kodigehalli Main Road</item>
+    <item>Kogilu</item>
+    <item>Kodipur</item>
+    <item>Kodipalya</item>
+    <item>Kempapura Agrahara</item>
+    <item>100 Feet Road-Koramangala</item>
+    <item>Kanekallu</item>
+    <item>Kanakapura</item>
+    <item>Kanaka Nagar</item>
+    <item>Kamraj Road</item>
+    <item>Kannahalli</item>
+    <item>Kannamangala</item>
+    <item>Kanshiram Nagara</item>
+    <item>Kannuru</item>
+    <item>Kannurahalli</item>
+    <item>Kammasandra Agrahara</item>
+    <item>Kammasandra</item>
+    <item>Kamanahalli</item>
+    <item>Kamakya Layout</item>
+    <item>Kamaksipalya</item>
+    <item>Kamadhenu Layout</item>
+    <item>Kamath Layout</item>
+    <item>Kambalipura</item>
+    <item>Kammanahalli Main Road</item>
+    <item>Kammagondanahalli</item>
+    <item>Kambipura</item>
+    <item>Kanteeravanagar</item>
+    <item>Karekallu Kamakshipalya</item>
+    <item>Kaverappa Layout-Vasanth Nagar</item>
+    <item>Kaverappa Layout</item>
+    <item>Kattanallur</item>
+    <item>Kathriguppe Main Road</item>
+    <item>Kaveri Nagar</item>
+    <item>KC Krishna Reddy Layout</item>
+    <item>Kempanahalli</item>
+    <item>Kelamangalam Road</item>
+    <item>KD Road</item>
+    <item>Kathriguppe</item>
+    <item>Katamnallur</item>
+    <item>Kariyappanahalli</item>
+    <item>Kariyana Palya</item>
+    <item>Karihobanahalli</item>
+    <item>Karnataka Layout</item>
+    <item>Kartik Nagar</item>
+    <item>Kasturi Nagar</item>
+    <item>Kasthuriba Nagar</item>
+    <item>Karuna Nagar</item>
+    <item>Indiranagar 2nd Stage</item>
+    <item>Indiranagar 100 Feet Road</item>
+    <item>Govindaraja Nagar</item>
+    <item>Govindapura</item>
+    <item>Goraguntepalya</item>
+    <item>Gopasandra</item>
+    <item>Govt Press Layout</item>
+    <item>Gowdanapalya</item>
+    <item>Green Glen Layout</item>
+    <item>Green Garden Layout</item>
+    <item>Gowthamapuram</item>
+    <item>Gollarapalya</item>
+    <item>Gollarahatti</item>
+    <item>Giri Nagar</item>
+    <item>Gidadapalya</item>
+    <item>Gejjagadahalli</item>
+    <item>Geddalahalli</item>
+    <item>GKW Layout</item>
+    <item>GM Palya</item>
+    <item>Gollahalli</item>
+    <item>Gokula Extension</item>
+    <item>Gnana Bharathi</item>
+    <item>Gruha Lakshmi Layout</item>
+    <item>Gruhalakshmi Housing Colony</item>
+    <item>Gupta Layout</item>
+    <item>Gunjur Palya</item>
+    <item>Gunjur Mugalur Road</item>
+    <item>Gunjur</item>
+    <item>Gururaja Layout-Banashankari</item>
+    <item>H Cross</item>
+    <item>HAL 2nd Stage</item>
+    <item>Hagadur Main Road</item>
+    <item>Hadosiddapura</item>
+    <item>Guni Agrahara</item>
+    <item>Gunduru</item>
+    <item>Gudimavu</item>
+    <item>Guddahatti</item>
+    <item>Guddadahalli-Mysore Road</item>
+    <item>Gubbalala</item>
+    <item>Guguttahalli</item>
+    <item>Gulakamale</item>
+    <item>Gundappa Layout</item>
+    <item>Gummanahalli</item>
+    <item>Gulimangala</item>
+    <item>GD Layout</item>
+    <item>Gayatrinagar-Rajajinagar</item>
+    <item>Electronic City Phase I</item>
+    <item>Electronic City</item>
+    <item>Ekarajapura</item>
+    <item>Ejipura Main Road</item>
+    <item>Electronic City Phase II</item>
+    <item>Essel Gardens</item>
+    <item>Gadenahalli</item>
+    <item>Freedom Fighter Colony</item>
+    <item>Forest Layout</item>
+    <item>Dyavasandra</item>
+    <item>Dwaraka Nagar</item>
+    <item>Dr. Ambedkar Veedhi</item>
+    <item>Doresanipalya</item>
+    <item>Dooravani Nagar</item>
+    <item>Doopanahalli</item>
+    <item>Dr. Rajkumar Road-Rajajinagar</item>
+    <item>Dr. Shivaram Karanth Nagar</item>
+    <item>Duo City Layout</item>
+    <item>Duddanahalli</item>
+    <item>Dubasi Palya</item>
+    <item>Ganapathi Nagar</item>
+    <item>Ganapathihalli</item>
+    <item>Gaurav Nagar</item>
+    <item>Gattigere</item>
+    <item>Gattahalli</item>
+    <item>Garvebhavi Palya</item>
+    <item>Gauribidanur</item>
+    <item>Gauribidanur Road</item>
+    <item>Gayathrinagar</item>
+    <item>Gayathri Layout</item>
+    <item>Gavipuram Extension</item>
+    <item>Garudachar Palya</item>
+    <item>Garden Layout</item>
+    <item>Gangasandra</item>
+    <item>Gangamma Circle</item>
+    <item>Gandhipuram</item>
+    <item>Gangavara</item>
+    <item>Gangondanahalli</item>
+    <item>Gantiganahalli</item>
+    <item>Ganigarapalya</item>
+    <item>Ganigarahalli</item>
+    <item>HAL 3rd Stage</item>
+    <item>HAL 3rd Stage Extension</item>
+    <item>HRBR Layout 1st Block</item>
+    <item>HRBR Layout</item>
+    <item>Hoysala Nagar</item>
+    <item>Hoskote Malur Road</item>
+    <item>HRBR Layout 2nd Block</item>
+    <item>HSR Layout Sector 1</item>
+    <item>HSR Layout Sector 4</item>
+    <item>HSR Layout Sector 3</item>
+    <item>HSR Layout Sector 2</item>
+    <item>Hoskote Chintamani Road</item>
+    <item>Hosapalaya</item>
+    <item>Hope Farm Junction</item>
+    <item>Honniganahatti</item>
+    <item>Honnenahalli</item>
+    <item>Hommadevanahalli</item>
+    <item>Horamavu Agara</item>
+    <item>Horamavu Agara Road</item>
+    <item>Hosahalli Gollarapalya</item>
+    <item>Hosa Road</item>
+    <item>Horamavu Main Road</item>
+    <item>HSR Layout Sector 5</item>
+    <item>HSR Layout Sector 6</item>
+    <item>Huvinane</item>
+    <item>Huttanahalli</item>
+    <item>Hutchins Road</item>
+    <item>Huskur Kodi</item>
+    <item>Iblur Village</item>
+    <item>Ilyas Nagar</item>
+    <item>Indira Nagar 1st Stage</item>
+    <item>Immadihalli Road</item>
+    <item>Immadihalli</item>
+    <item>Huskur</item>
+    <item>Hurulichikanahalli</item>
+    <item>Hullahalli</item>
+    <item>Hulimangala</item>
+    <item>Hulikunte</item>
+    <item>HSR Layout Sector 7</item>
+    <item>Hullegowdana Halli</item>
+    <item>Huluvenahalli</item>
+    <item>Huralihalli</item>
+    <item>Hunsur Road</item>
+    <item>Hunasamaranahalli</item>
+    <item>HMT Layout</item>
+    <item>HMS Layout</item>
+    <item>Harohalli</item>
+    <item>Harlur Main Road</item>
+    <item>Harinagar Shrinidhi Layout</item>
+    <item>Harapanahalli</item>
+    <item>Harohalli-Kanakapura Road</item>
+    <item>Haudin Road</item>
+    <item>HBR Layout 3rd Block</item>
+    <item>HBR Layout 2nd Block</item>
+    <item>HBR Layout 1st Block</item>
+    <item>Haralur Road</item>
+    <item>Haragadde</item>
+    <item>Halasahalli Thippasandra</item>
+    <item>Halanayakanahalli</item>
+    <item>HAL Layout2</item>
+    <item>HAL Layout</item>
+    <item>Hallehalli</item>
+    <item>Hampa Pura</item>
+    <item>Hanumantha Nagar</item>
+    <item>Hancharahalli</item>
+    <item>Hampi Nagar</item>
+    <item>HBR Layout 4th Block</item>
+    <item>HBR Layout 5th Block</item>
+    <item>Hesarghatta Main Road</item>
+    <item>Herohalli</item>
+    <item>Hennur Main Road</item>
+    <item>Hennur Gardens</item>
+    <item>Hessarghatta Road</item>
+    <item>High Grounds</item>
+    <item>HKP Road</item>
+    <item>Hiremath Layout</item>
+    <item>Hirandahalli</item>
+    <item>Hennur Bande</item>
+    <item>Hennur Bagalur Road</item>
+    <item>Heelalige</item>
+    <item>Hebbal Kempapura</item>
+    <item>Hebbagodi</item>
+    <item>Hegganahalli</item>
+    <item>Hegondanahalli</item>
+    <item>Hennagara</item>
+    <item>Hemmigepura</item>
+    <item>Hejjala</item>
+    <item>Koramangala 1st Block</item>
+    <item>Serenity Layout</item>
+    <item>Seshadri Road</item>
+    <item>Sevashrama</item>
+    <item>Seva Nagar</item>
+    <item>Seshadripuram Main Road</item>
+    <item>SBM Colony</item>
+    <item>Sathanur</item>
+    <item>Saraswathi Nagar</item>
+    <item>Sarakki Main Road</item>
+    <item>Sarakki Gate</item>
+    <item>Sarakariguttahalli</item>
+    <item>Sarjapur Attibele Road</item>
+    <item>Sarjapur Bagalur Road</item>
+    <item>Sasiveghatta</item>
+    <item>Sarvagnanagar</item>
+    <item>Sarjapur Outer Ring Road</item>
+    <item>Shamana Garden</item>
+    <item>Shamanna Layout</item>
+    <item>Shivanagar</item>
+    <item>Shivakote</item>
+    <item>Shiridi Sai Baba Layout</item>
+    <item>Shikaripalya</item>
+    <item>Shivanahalli</item>
+    <item>Shivananda Nagar</item>
+    <item>Shrirampuram</item>
+    <item>Shree Ananth Nagar Layout</item>
+    <item>Shivanapura</item>
+    <item>Shigehalli</item>
+    <item>Shettihalli</item>
+    <item>Shanthi Layout</item>
+    <item>Shanthala Nagar</item>
+    <item>Shankarapura</item>
+    <item>Shampura</item>
+    <item>Shanthi Pura</item>
+    <item>Shanubhoganahalli</item>
+    <item>Shettigere</item>
+    <item>Shastri Nagar</item>
+    <item>Sharada Colony</item>
+    <item>Prasanth Extension</item>
+    <item>Kempapura</item>
+    <item>Chelekare</item>
+    <item>Cheemasandra</item>
+    <item>Channenahalli</item>
+    <item>Channarayapatna</item>
+    <item>Chennammana Kere</item>
+    <item>Chennappa Layout</item>
+    <item>Chikka Tirupathi</item>
+    <item>Chikka Banaswadi</item>
+    <item>Chikka Adugodi</item>
+    <item>Chandra Layout</item>
+    <item>Chandapura-Sarjapura Road</item>
+    <item>Chakravarthy Layout</item>
+    <item>Chadalapura</item>
+    <item>Central Silk Board</item>
+    <item>Celebrity Paradise Layout</item>
+    <item>Challaghatta</item>
+    <item>Challegatta</item>
+    <item>Chandapura Dommasandra Road</item>
+    <item>Chandapura Anekal Road</item>
+    <item>Chamundi Nagar</item>
+    <item>Chikka Tirupathi Road</item>
+    <item>Chikkaballapur</item>
+    <item>Chikkasagarahalli</item>
+    <item>Chikkanekkundi</item>
+    <item>Chikkanahalli</item>
+    <item>Chikkanagamangala</item>
+    <item>Chikkathoguru</item>
+    <item>Chikkavadagere</item>
+    <item>Chinana Layout</item>
+    <item>Chikkellur Ramapura</item>
+    <item>Chikkavaderapura</item>
+    <item>Chikkakannalli</item>
+    <item>Chikkakalenahalli</item>
+    <item>Chikkabellandur</item>
+    <item>Chikkabasavanapura</item>
+    <item>Chikkabanahalli</item>
+    <item>Chikkaballapur Gauribidanur Road</item>
+    <item>Chikkabettahalli</item>
+    <item>Chikkabidarakallu</item>
+    <item>Chikkajala</item>
+    <item>Chikkahullur</item>
+    <item>Chikkagubbi Village</item>
+    <item>CBI Road</item>
+    <item>Carmelaram Road</item>
+    <item>BP Wadia Road</item>
+    <item>Boyalahalli</item>
+    <item>Bovipalya</item>
+    <item>Bommasandra Jigani Link Road</item>
+    <item>Brigade Road</item>
+    <item>BTM Layout 1st Stage</item>
+    <item>Buddha Jyothi Layout</item>
+    <item>BTS Layout</item>
+    <item>BTM Layout 2nd Stage</item>
+    <item>Bommasandra Industrial Estate</item>
+    <item>Bommanahalli</item>
+    <item>Binny Mill Road</item>
+    <item>Binnipete</item>
+    <item>Binnamangala</item>
+    <item>Bilwaradahalli</item>
+    <item>Bismillah Nagar</item>
+    <item>Bisuvanahalli</item>
+    <item>Bolare</item>
+    <item>Bohra Layout</item>
+    <item>BK Nagar</item>
+    <item>Buddha Vihara Road</item>
+    <item>Budigere</item>
+    <item>Byrathi</item>
+    <item>Byrappa Layout</item>
+    <item>Byranaikanahalli</item>
+    <item>Bylkonehalli</item>
+    <item>Byraveshwara Industrial Estate</item>
+    <item>Byreshwara Layout</item>
+    <item>Carmelaram</item>
+    <item>Canara Bank Colony</item>
+    <item>Cambridge Layout</item>
+    <item>Byatha</item>
+    <item>Byatarayanapura New Extn</item>
+    <item>Bukkasagara</item>
+    <item>Budihal</item>
+    <item>Budigere Road</item>
+    <item>Budigere Cross</item>
+    <item>Bull Temple Road</item>
+    <item>Byadarahalli</item>
+    <item>Byatarayanapura</item>
+    <item>Byatarayana Doddi</item>
+    <item>Byalalu</item>
+    <item>Chinnakurchi</item>
+    <item>Chinnapa Garden</item>
+    <item>Dodda Aalada Mara</item>
+    <item>Dobbaspet</item>
+    <item>Divanarapalya</item>
+    <item>Dinnur Main Road</item>
+    <item>Dodda Aalada Mara Road</item>
+    <item>Dodda Banasvadi</item>
+    <item>Doddaballapur</item>
+    <item>Dodda Byalakere</item>
+    <item>Dodda Banaswadi Main Road</item>
+    <item>Dinnur</item>
+    <item>Dickenson Road</item>
+    <item>Devasandra</item>
+    <item>Devarachikkanahalli Main Road</item>
+    <item>Devarabisanahalli</item>
+    <item>Devara Jeevanahalli</item>
+    <item>Devasandra Main Road</item>
+    <item>Devasthanagalu</item>
+    <item>Dibbur</item>
+    <item>Diamond District</item>
+    <item>Dhanalakshmi Layout</item>
+    <item>Doddaballapur Road</item>
+    <item>Doddabanahalli</item>
+    <item>Doddanagamangala</item>
+    <item>Doddamma Layout</item>
+    <item>Doddamavalli</item>
+    <item>Doddamaranahalli</item>
+    <item>Doddathoguru</item>
+    <item>Doddenahalli</item>
+    <item>Dollars Colony</item>
+    <item>Dodsworth Layout</item>
+    <item>Dodderi</item>
+    <item>Doddakannelli-Bellandur</item>
+    <item>Doddakannalli</item>
+    <item>Doddabidarakallu</item>
+    <item>Doddabettahalli</item>
+    <item>Doddabele</item>
+    <item>Doddabelavagi</item>
+    <item>Doddadunnasandra</item>
+    <item>Doddagubbi</item>
+    <item>Doddakammanahalli</item>
+    <item>Doddakallasandra</item>
+    <item>Doddajala</item>
+    <item>Devanahalli Road</item>
+    <item>Devanahalli</item>
+    <item>CIL Layout</item>
+    <item>Church Street</item>
+    <item>Chunchunkuppe</item>
+    <item>Chunchgatta</item>
+    <item>CK Nagar-Parappana Agrahara</item>
+    <item>CK Palya</item>
+    <item>CMH Road</item>
+    <item>Classic Paradise Layout</item>
+    <item>Ckikkakammana Halli</item>
+    <item>Chunchgatta</item>
+    <item>Chudenapura</item>
+    <item>Chocolate Factory Road</item>
+    <item>Chiranjeevi Layout</item>
+    <item>Chintamani</item>
+    <item>Chinnapanna Halli</item>
+    <item>Chokkanahalli</item>
+    <item>Chokkasandra</item>
+    <item>Cholourpalya</item>
+    <item>Cholanayakanahalli</item>
+    <item>Chola Nagar</item>
+    <item>Coffee Board Layout</item>
+    <item>Commercial Street</item>
+    <item>Dattatreya Nagar</item>
+    <item>Dasarahalli Main Road</item>
+    <item>Dasarahalli</item>
+    <item>Dasanayakanahalli</item>
+    <item>Dayananda Nagar</item>
+    <item>Deepanjalinagar</item>
+    <item>Devanagonthi</item>
+    <item>Defence Colony-Indiranagar</item>
+    <item>Defence Colony – Bagalagunte</item>
+    <item>Dasanapura</item>
+    <item>Dairy Circle</item>
+    <item>Craig Park Layout</item>
+    <item>CQAL Layout</item>
+    <item>Cottonpete</item>
+    <item>Crescent Road</item>
+    <item>Cubbon Road</item>
+    <item>D Group Layout</item>
+    <item>D Group Employees Layout</item>
+    <item>Cunningham Road</item>
+    <item>Billamaranahalli</item>
+    <item>Bileshivale</item>
+    <item>Sapthagiri Layout-Kadubeesanahalli</item>
+    <item>Saraipalya</item>
+    <item>Sir M Vishweshwaraiah Layout 5th Block</item>
+    <item>Sir M Vishweshwaraiah Layout 2nd Block</item>
+    <item>Sir M Vishveswaraya Layout</item>
+    <item>Sir M V Nagar</item>
+    <item>Sivan Chetty Gardens</item>
+    <item>Soladevanahalli</item>
+    <item>Somapura</item>
+    <item>Somanhalli</item>
+    <item>Solur</item>
+    <item>Singapura Village</item>
+    <item>Singapura Paradise</item>
+    <item>Sidlaghatta</item>
+    <item>Sidihosakote</item>
+    <item>Sidedahalli</item>
+    <item>Siddhartha Layout</item>
+    <item>Silvepura</item>
+    <item>Silver Springs Layout</item>
+    <item>Singapura</item>
+    <item>Singanayakanahalli</item>
+    <item>Singanahalli</item>
+    <item>Somashetti Halli</item>
+    <item>Somasundarapalya</item>
+    <item>Sri Jayachamarajendra Road</item>
+    <item>Sri Chowdeshwari</item>
+    <item>Sreeramanahalli</item>
+    <item>Southegowdanahalli</item>
+    <item>Sri Ram Puram</item>
+    <item>Srigandadakaval</item>
+    <item>Srinagar</item>
+    <item>Srigandha Nagar</item>
+    <item>Srigandha Kaval</item>
+    <item>South Avenue Layout</item>
+    <item>Soukya Road</item>
+    <item>Sompura Gate</item>
+    <item>Sompura</item>
+    <item>Someshwara Nagar</item>
+    <item>Someshwara Layout</item>
+    <item>Sonam Layout</item>
+    <item>Sonappa Layout</item>
+    <item>Soppahalli</item>
+    <item>Sonnenahalli</item>
+    <item>Sondekoppa</item>
+    <item>Siddapura Road</item>
+    <item>Siddapura</item>
+    <item>Seetharampalya</item>
+    <item>Seenappa Layout</item>
+    <item>Seegehalli Main Road</item>
+    <item>Seegehalli</item>
+</string-array>
+    </resources>
